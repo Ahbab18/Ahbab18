@@ -1,17 +1,23 @@
-<h1 align="center">Hey Everyone 👋, I'm Ahbab Ahmad </h1>
-<h3 align="center">A passionate Software Engineer & Web developer </h3>
+**<h1 align="center">Hey Everyone 👋, I'm Ahbab Ahmad </h1>**
+
+**<h3 align="center">A passionate Software Engineer & Web developer </h3>**
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Frameworks etc.**
+- 🌱 I’m currently learning **react js & Frameworks etc.**
 
 - 🤝 I’m looking for help with **my projects**
 
-- 💬 Ask me about **java programming**
+- 💬 Ask me about **Java programming , web development and problem solving.**
+  
+- 🪟 View my projects on my gitprofile **https://github.com/Ahbab18**
 
 - 📫 How to reach me **ahmadahbab7@gmail.com**
 
+- 🏫 Completeing my **Bachelor's Degree (Computer Science Engineering).**
+
 - 📄 Know about my experiences https://drive.google.com/file/d/1eB9QA0ipkp6yiDt2247iUXRF05dqcjgC/view?usp=sharing
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahbab-ahmad-131004239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahbab-ahmad-131004239" height="30" width="40" /></a>
